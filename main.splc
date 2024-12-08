@@ -1,6 +1,0 @@
-set_id(flt:0)
-set_Cursor_X(flt:12)
-set_Cursor_Y(flt:23)
-draw_img(str:assets/sprites/block.png)
-set_Size_X(flt:132)
-set_Size_Y(flt:100)
